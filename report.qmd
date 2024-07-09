@@ -1,7 +1,7 @@
 ---
-title: "Quarto HTML Basics"
-author: "Norah Jones"
-date: "March 22nd, 2021"
+title: "Quarto HTML Report"
+author: "You"
+date: today
 toc: true
 format:
   html:
