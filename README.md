@@ -3,7 +3,7 @@
 
 # Quarto with R Example for Posit Connect Cloud Deployment
 
-This example Quarto with R document highlights what can be included in a simple html report.
+This example Quarto with R dashboard displays recent earthquake activity in New Zealand.
 
 ## Connect Cloud
 
