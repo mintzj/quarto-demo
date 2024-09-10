@@ -5,6 +5,7 @@
 
 This example Quarto with R dashboard displays recent earthquake activity in New Zealand.
 
+
 ## Connect Cloud
 
 [Connect Cloud](https://connect.posit.cloud/) makes it simple for you to publish and share data applications and documents in a single cloud environment within minutes. It supports the most popular Python and R frameworks, including:
@@ -15,6 +16,11 @@ This example Quarto with R dashboard displays recent earthquake activity in New 
 * Quarto with Python and [Quarto with R](https://docs.posit.co/connect-cloud/how-to/r/quarto-r.html)
 * Jupyter Notebooks
 * R Markdown
+  
+## Click image and publish to Connect Cloud
+[<img src="https://github.com/user-attachments/assets/0dd214b5-f52d-403c-985e-d97467bd7542">](https://connect.posit.cloud/publish?contentType=quarto&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-quarto-r&sourceRef=main&sourceRefType=branch&primaryFile=report.qmd)
+
+
 
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
