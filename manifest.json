@@ -16,7 +16,7 @@
   "packages": {
     "DBI": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com",
+      "Repository": "https://crans.rstudio.com",
       "description": {
         "Package": "DBI",
         "Title": "R Database Interface",
