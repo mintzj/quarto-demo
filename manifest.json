@@ -14,11 +14,11 @@
     "engines": ["knitr"]
   },
   "packages": {
-    "DBssI": {
-      "Source": "CRAsN",
-      "Repository": "https://crans.rstudio.com",
+    "DBI": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
       "description": {
-        "Package": "DBssI",
+        "Package": "DBI",
         "Title": "R Database Interface",
         "Version": "1.2.3",
         "Date": "2024-06-02",
@@ -41,7 +41,7 @@
         "Packaged": "2024-06-02 20:26:05 UTC; kirill",
         "Author": "R Special Interest Group on Databases (R-SIG-DB) [aut],\n  Hadley Wickham [aut],\n  Kirill Müller [aut, cre] (<https://orcid.org/0000-0002-1416-3412>),\n  R Consortium [fnd]",
         "Maintainer": "Kirill Müller <kirill@cynkra.com>",
-        "Repository": "CRAsN",
+        "Repository": "CRAN",
         "Date/Publication": "2024-06-02 21:50:02 UTC",
         "Built": "R 4.4.0; ; 2024-06-05 02:08:50 UTC; unix"
       }
