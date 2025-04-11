@@ -7,6 +7,8 @@ format:
     theme: yeti
 ---
 
+## Making various changes to the Quarto example!
+
 ```{r}
 #| message: false
 library(tidyverse)
@@ -128,6 +130,16 @@ list(
   icon = "stopwatch",
   color = "primary",
   value = as.numeric(hours_last)
+)
+```
+
+```{r}
+#| component: valuebox
+#| title: Some extra things since last earthquake
+list(
+  icon = "tree",
+  color = "primary",
+  value = 123
 )
 ```
 
